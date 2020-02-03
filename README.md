@@ -1,4 +1,7 @@
-# template_aerohive_network
+# Template Aerohive Network
+Model: AP-250
+Dell Network
+
 Monitoramento de rede aerohive access point
 
 
