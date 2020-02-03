@@ -13,7 +13,9 @@ Implementações em zabbix, linux CentOS
 Template criado utilizando versão de firmware dos APs 10.0r7a, é possivel que algo muito fora disso apresente informações diferentes. 
 
 -> Valores mapeados foram utilizados para diagnosticar o canal que o cliente está trabalhando, 2.4 ou 5Ghz.
+
 -> Histórico de intensidade de sinal do registro mantido por 7 dias para analise de disponibilidade.
+
 -> Checagem por segundo e multiplicação de bits foram usadas para definir o trafico nas interfaces.
 
 Estou disponivel para esclarecer duvidas via email: geeksleo@gmail.com
