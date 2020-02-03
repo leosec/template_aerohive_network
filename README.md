@@ -15,4 +15,4 @@ Trafico por interface
 ![](https://github.com/leosec/template_aerohive_network/blob/master/Interfaces.PNG)
 
 SSIDs removidos por segurança.
-![](https://github.com/leosec/template_aerohive_network/blob/master/SSIDs.PNG)
+![](https://github.com/leosec/template_aerohive_network/blob/master/SSIDs.png)
